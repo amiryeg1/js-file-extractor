@@ -1,6 +1,6 @@
 {
   "name": "js-file-extractor",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "re-structure your data and covert it into javascript object",
   "main": "app.js",
   "scripts": {
