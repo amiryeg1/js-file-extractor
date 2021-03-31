@@ -1,13 +1,13 @@
 {
   "name": "js-file-extractor",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "re-structure your data and covert it into javascript object",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["object", "JSON", "javascript object notation"],
+  "author": "amir yeganeh",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.0"
