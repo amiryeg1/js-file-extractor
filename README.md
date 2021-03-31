@@ -66,5 +66,5 @@ const data = extractor.generete("data.txt");
 // log the object on the console:
 console.log(data);
 ```
-![console.log]()
+![console log](https://user-images.githubusercontent.com/61851332/113202650-3c4bc580-9280-11eb-8671-a8f50d109d64.png)
 
