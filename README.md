@@ -2,8 +2,10 @@
 ![npm collaborators](https://img.shields.io/npm/collaborators/js-file-extractor)
 ![npm bundle size](https://img.shields.io/bundlephobia/min/js-file-extractor?color=yellow)
 ![NPM](https://img.shields.io/npm/l/js-file-extractor)
+
 > this project is a part of [nodejs-lessons](https://github.com/amiryeg1/nodejs-lessons) repository. feel free to visit it if you are interested in similar projects.
 
+[![NPM](https://nodei.co/npm/js-file-extractor.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/js-file-extractor/)
 # js-file-extractor
 Re-structure your data and convert it into a javascript object in a blink!
 
