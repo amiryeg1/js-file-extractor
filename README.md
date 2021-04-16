@@ -1,4 +1,5 @@
 ![npm](https://img.shields.io/npm/v/js-file-extractor)
+![npm](https://img.shields.io/npm/dy/js-file-extractor)
 ![npm collaborators](https://img.shields.io/npm/collaborators/js-file-extractor)
 ![npm bundle size](https://img.shields.io/bundlephobia/min/js-file-extractor?color=yellow)
 ![NPM](https://img.shields.io/npm/l/js-file-extractor)
